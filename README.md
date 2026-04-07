@@ -23,6 +23,13 @@ This project predicts whether a person has heart disease using machine learning 
 
 The dataset contains medical attributes such as age, cholesterol, blood pressure, etc.
 
+## 📈 Results
+
+* Logistic Regression Accuracy: ~85%
+* SVM Accuracy: ~83%
+
+Logistic Regression performed slightly better on this dataset.
+
 ## ▶️ How to Run
 
 1. Clone the repository
